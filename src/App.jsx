@@ -5,6 +5,9 @@ function App() {
   return (
     <div>App
       <User/>
+      <div></div>
+      <div></div>
+      <div></div>
     </div>
   )
 }
